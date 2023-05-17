@@ -1,0 +1,17 @@
+#cabezera{
+	font-family: sans-serif;
+	font-style:oblique; 
+	font-size:x-large;
+	text-align: center;
+}
+#indice{
+	text-transform: lowercase;
+	font-family: Verdana;
+	font-size: large;
+}
+#contenido{
+	font-family: verdana;
+}
+#piedepagina{
+	font-weight: bold;
+}
